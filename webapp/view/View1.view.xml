@@ -12,7 +12,8 @@
             text="{Text}"
 			iconDensityAware="false"
 			convertLinksToAnchorTags="All"
-            type="Navigation" id="list1"/>
+            type="Navigation"
+			press="onMsgPress" id="list1"/>
 	</List>
 
         	<Label class="sapUiSmallMarginTop sapUiTinyMarginBottom" id="label"/>
